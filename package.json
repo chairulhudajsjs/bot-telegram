@@ -1,5 +1,5 @@
 {
-  "name": "bot-tele",
+  "name": "Chairul Botz",
   "version": "1.0.0",
   "description": "no",
   "main": "bot.js",
@@ -9,7 +9,7 @@
   "keywords": [
     "bot-tele"
   ],
-  "author": "Rizky Fadilah",
+  "author": "𝐂𝐇𝐀𝐈𝐑𝐔𝐋 𝐒𝐓𝐎𝐑𝐄",
   "license": "ISC",
   "dependencies": {
     "@vitalets/google-translate-api": "^7.0.0",
